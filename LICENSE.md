@@ -1,4 +1,4 @@
-# 
+# Polymarket automatic Strategy: leverage-trading & event-driven-trading offers the most advanced Polymarket strategy, with leverage-trading and event-driven-trading. Ideal for
 
 
 
